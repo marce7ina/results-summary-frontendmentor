@@ -243,6 +243,8 @@ li:nth-child(5) {
 .bg-dark-gray-blue {
   background-color: var(--dark-gray-blue);
 }
+/*    font weights    */
+
 .fw-800 {
   font-weight: var(--fw-800);
 }
